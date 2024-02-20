@@ -13,6 +13,8 @@ This project aims to securely manage, streamline, and perform analysis on the st
 5. Reporting — Build a dashboard to get answers to the question we asked earlier
 
 ## Services we will be using
+## Programming Language - Python
+Azure Portal Platform
 1. Azure Blob Storage
 2. Azure Databricks
 3. Azure Data Factory
