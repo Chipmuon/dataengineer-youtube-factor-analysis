@@ -11,9 +11,9 @@ This project aims to securely manage, streamline, and perform analysis on the st
 3. Scalability — As the size of our data increases, we need to make sure our system scales with it
 4. Cloud — We can’t process vast amounts of data on our local computer so we need to use the cloud, in this case, we will use Azure
 5. Reporting — Build a dashboard to get answers to the question we asked earlier
+## Programming Language - Python
 
 ## Services we will be using
-## Programming Language - Python
 Azure Portal Platform
 1. Azure Blob Storage
 2. Azure Databricks
